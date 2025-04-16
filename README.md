@@ -65,4 +65,6 @@ run_all.bat
 if you're already in the folder via terminal:
 
 cd path\to\your\project
+
+
 run_all.bat
