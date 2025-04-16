@@ -58,6 +58,11 @@ The project simulates the workflow of a two-pass assembler targeting a customize
 
 ## 🛠️ How to Run
 
-Example command (for Python):
+If you're on Windows, just double-click the run_all.bat file or run it via the command prompt:
 
-python3 assembler.py --data in.txt
+run_all.bat
+
+if you're already in the folder via terminal:
+
+cd path\to\your\project
+run_all.bat
